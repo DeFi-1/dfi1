@@ -1,1 +1,1 @@
-# dfi1
+# DFI1 Token Contract
