@@ -1,2 +1,5 @@
-# DFI1 Token Contract
-# Currently testing contract
+# DeFiONE Token Contract
+- Symbol: DFI1
+- Total Supply: 33,978,000
+- Stage: Testing
+
